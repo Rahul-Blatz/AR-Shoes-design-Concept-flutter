@@ -1,5 +1,5 @@
 # shoe_app
-
+A replica of https://dribbble.com/shots/10602723-AR-Sneakers-Store-Concept
 Shop for shoes
 
 ## Getting Started

@@ -3,6 +3,8 @@ A replica of https://dribbble.com/shots/10602723-AR-Sneakers-Store-Concept
 
 Shop for shoes
 
+![](giphy.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
